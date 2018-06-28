@@ -47,58 +47,6 @@ end
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 post  '/results' do
 
 
@@ -118,9 +66,6 @@ post  '/results' do
 
 
   puts @total
-
-
-
 
 
 
@@ -215,8 +160,7 @@ end
 
 
 
-
- end
+end
 
 
 end
@@ -237,4 +181,4 @@ end
 
  end
 end
-End
+end
